@@ -34,10 +34,11 @@
 </p> -->
 
 <p align="center">
-<table align="center" style="border: 0px solid black">
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImComy&hide_border=true&show_icons=true&no-frame=true&theme=react"  /></td>
-        <td>
-            <table style="border: 0px solid black">
+<table align="center" style="border: 0px solid black; width: 100%;">
+    <tr>
+        <td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImComy&hide_border=true&show_icons=true&no-frame=true&theme=react"  /></td>
+        <td valign="top" width="50%">
+            <table style="border: 0px solid black; width: 100%;">
                 <tr>
                     <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImComy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /> </td>
                 </tr>
@@ -46,12 +47,13 @@
                 </tr>
             </table>
         </td>
+    </tr>
 </table>
 </p>
 
 ### Projects 💻
 - **[Go offer](https://github.com/ImComy/GO-OFFER):** a coupons website I'm currently working on using MERN stack
-- **[special-tic-tac-toe](https://github.com/ImComy/special-tic-tac-toe):** normal tic-tac-toe but draw is not possible  so It's a bit tricky
+- **[special-tic-tac-toe](https://github.com/ImComy/special-tic-tac-toe):** normal tic-tac-toe but draw is not possible so it's a bit tricky
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ImComy.ImComy" />
