@@ -35,7 +35,7 @@
 
 <p align="center">
 <table align="center" style="border: 0px solid black">
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImComy&hide_border=true&show_icons=true&no-frame=true&theme=react" width="450px" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImComy&hide_border=true&show_icons=true&no-frame=true&theme=react" height="1000px" /></td>
         <td>
             <table style="border: 0px solid black">
                 <tr>
