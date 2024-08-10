@@ -34,16 +34,16 @@
 </p> -->
 
 <p align="center">
-<table align="center" style="border: 0px solid black; width: 100%;">
+<table align="center" style="border: 0px solid black">
     <tr>
-        <td valign="top" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImComy&hide_border=true&show_icons=true&no-frame=true&theme=react"  /></td>
-        <td valign="top" width="50%">
-            <table style="border: 0px solid black; width: 100%;">
+        <td><img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImComy&hide_border=true&show_icons=true&no-frame=true&theme=react"  /></td>
+        <td>
+            <table style="border: 0px solid black">
                 <tr>
-                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImComy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /> </td>
+                    <td><img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImComy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /> </td>
                 </tr>
                 <tr>
-                    <td><img src="http://github-readme-streak-stats.herokuapp.com?user=ImComy&theme=react&hide_border=true"  /></td>
+                    <td><img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=ImComy&theme=react&hide_border=true"  /></td>
                 </tr>
             </table>
         </td>
