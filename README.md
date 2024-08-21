@@ -58,8 +58,8 @@
 </p>
 
 ### Projects 💻
-- **[Go offer](https://github.com/ImComy/GO-OFFER):** a coupons website I'm currently working on using MERN stack
-- **[special-tic-tac-toe](https://github.com/ImComy/special-tic-tac-toe):** normal tic-tac-toe but draw is not possible so it's a bit tricky
+- **[Go offer](https://github.com/ImComy/GO-OFFER):**  A fully functional coupons website built using the MERN stack (MongoDB, Express, React, Node.js) that simulates real-life websites, providing a realistic user experience.
+- **[special-tic-tac-toe](https://github.com/ImComy/online-special-ttt):** Powered by React.js, Node.js, Express, and StreamChat, this full-stack real-time multiplayer Tic-Tac-Toe game brings a fresh spin to the classic game, delivering a seamless and engaging experience for players.
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ImComy.ImComy" />
