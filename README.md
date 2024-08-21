@@ -5,10 +5,69 @@
 - 🌱 I am passionate about Web Dev & I enjoy learning new things.
 - 📫 How to reach me: 
   - Email me at <a href="mailto:ahmedcomy74@gmail.com">ahmedcomy74@gmail.com</a>
-  - Preferred: <a href="https://discord.com/users/713394083179135026">Discord</a>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://dcbadge.vercel.app/api/shield/713394083179135026" alt="Discord Badge" />
+</p> -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://x.com/Im_Comy" target="blank">
+    <img 
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+         alt="twitter"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://www.facebook.com/ImComy/" target="blank">
+    <img 
+         align="center"
+         src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" 
+         alt="facebook"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://www.instagram.com/im_comy/" target="blank">
+    <img 
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="instgram"
+         height="30"
+         width="40" />
+  </a>
+   <a href="https://discord.com/users/713394083179135026" target="blank">
+    <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+         alt="Discord"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-el-shazly-986a08286/" target="blank">
+    <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="aigeo_"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/Im_Comy" target="blank">
+    <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+         alt="aigeo_"
+         height="30"
+         width="40" />
+  </a>
+  <a href="https://leetcode.com/u/ImComy/" target="blank">
+    <img
+         align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         alt="aigeo_"
+         height="30"
+         width="40" />
+  </a>
 </p>
 
 ### My Skills 🚀
